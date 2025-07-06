@@ -1,0 +1,4 @@
+working directory
+staginf area
+local repo
+remote repo
