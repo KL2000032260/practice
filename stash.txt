@@ -1,2 +1,6 @@
 stashing
+<<<<<<< HEAD
 Hi - git branch changes
+=======
+stash- master-github
+>>>>>>> 640ddcbae9ac4936d06693ef08e96c04e0901088
